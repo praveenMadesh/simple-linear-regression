@@ -1,2 +1,2 @@
 # simple-linear-regression
-predicting the independent variables
+predicting the values of dependent variables
